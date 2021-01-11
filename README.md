@@ -10,6 +10,6 @@
 ![3rd](./3.jpg)
 
 5. Cick on the menu in the top left and select **Download project as a file**.
-![4th](./3.jpg)
+![4th](./4.jpg)
 
 6. Share the downloaded file.
