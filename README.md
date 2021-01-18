@@ -1,15 +1,6 @@
-# Teachable machines guide.
-1. Head to **[Teachable machines website](https://teachablemachine.withgoogle.com/train)**.
-2. Select image project option.
-![1st](./1st.jpg)
-
-3. You will find 2 classes already added. Rename these to back and front.
-![2nd](./2.jpg)
-
-4. Click on the webcam option and press record to capture images of the document. (Around 15 images for both sides)
-![3rd](./3.jpg)
-
-5. Cick on the menu in the top left and select **Download project as a file**.
-![4th](./4.jpg)
-
-6. Share the downloaded file.
+# Guide to gather dataset.
+1. Open the camera app on the phone.
+2. Take a picture of the id card such that it is clearly visible in frame.
+3. Take around 5-10 images of both the back and front of the id card.
+4. Select the images that you have click from the gallery app and click share.
+5. Select gmail and email the images to saiashish90@gmail.com
